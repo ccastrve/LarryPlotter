@@ -7,3 +7,4 @@
 * Larry Ploter y las reliquias de Linux 1
 * Larry Ploter y las reliquias de Linux 2
 * Larry Ploter y el Caliz de fuego
+* Larry Ploter y el Big data
